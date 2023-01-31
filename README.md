@@ -1,3 +1,4 @@
 Hi Amigos,
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{replyashu}/count.svg)
+Visitor Count so far: 
+![Visitor Count](https://profile-counter.glitch.me/{replyashu}/count.svg)
 
